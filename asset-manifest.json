@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Task5.github.io/static/css/main.e86efe3b.chunk.css",
+    "main.js": "/Task5.github.io/static/js/main.a3384f71.chunk.js",
+    "main.js.map": "/Task5.github.io/static/js/main.a3384f71.chunk.js.map",
+    "runtime-main.js": "/Task5.github.io/static/js/runtime-main.bc51e657.js",
+    "runtime-main.js.map": "/Task5.github.io/static/js/runtime-main.bc51e657.js.map",
+    "static/css/2.9082872e.chunk.css": "/Task5.github.io/static/css/2.9082872e.chunk.css",
+    "static/js/2.7976cf37.chunk.js": "/Task5.github.io/static/js/2.7976cf37.chunk.js",
+    "static/js/2.7976cf37.chunk.js.map": "/Task5.github.io/static/js/2.7976cf37.chunk.js.map",
+    "static/js/3.fa565175.chunk.js": "/Task5.github.io/static/js/3.fa565175.chunk.js",
+    "static/js/3.fa565175.chunk.js.map": "/Task5.github.io/static/js/3.fa565175.chunk.js.map",
+    "index.html": "/Task5.github.io/index.html",
+    "static/css/2.9082872e.chunk.css.map": "/Task5.github.io/static/css/2.9082872e.chunk.css.map",
+    "static/css/main.e86efe3b.chunk.css.map": "/Task5.github.io/static/css/main.e86efe3b.chunk.css.map",
+    "static/js/2.7976cf37.chunk.js.LICENSE.txt": "/Task5.github.io/static/js/2.7976cf37.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Task5.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc51e657.js",
+    "static/css/2.9082872e.chunk.css",
+    "static/js/2.7976cf37.chunk.js",
+    "static/css/main.e86efe3b.chunk.css",
+    "static/js/main.a3384f71.chunk.js"
+  ]
+}
